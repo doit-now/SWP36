@@ -7,7 +7,7 @@
 * ...
 
 ### Screen-shots
-
+![source code](https://github.com/doit-now/SWP36/blob/main/screen-shot/Source-code.png)
 
 #### Connect me via: hoangnt2@fpt.edu.vn
 
